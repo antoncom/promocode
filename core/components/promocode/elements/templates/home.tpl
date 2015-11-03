@@ -1,0 +1,1 @@
+<div id="promocode-panel-home-div"></div>
