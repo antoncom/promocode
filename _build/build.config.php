@@ -52,5 +52,4 @@ $BUILD_RESOLVERS = array(
 	'tables',
 	'chunks',
 	//'setup',
-	'office',
 );
